@@ -1,8 +1,11 @@
-## K2Transfer 穿梭框组件
+## k2-transfer 穿梭框组件
 > 注意：次组件依赖 iview，请确保已安装 iview
 
-开发/维护人：kk
-
+## 使用
+```bash
+npm install k2-transfer --save
+```
+使用及文档可以查看[iview Transfer](https://www.iviewui.com/components/transfer)，该组件只是在其基础上进行增强。
 
 ## 新增功能
 1. [x] 支持自定义穿梭框最外层 container 样式

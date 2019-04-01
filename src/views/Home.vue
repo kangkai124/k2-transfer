@@ -24,7 +24,7 @@ import K2Transfer from '@/components/K2Transfer'
 import { Button } from 'iview'
 
 export default {
-  name: 'Another',
+  name: 'Home',
   components: {
     K2Transfer,
     Button

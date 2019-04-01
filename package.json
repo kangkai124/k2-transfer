@@ -1,6 +1,6 @@
 {
   "name": "k2-transfer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "基于iview Transfer的增强版穿梭框组件, 支持双击、多选、键盘操作",
     "keywords": [
       "transfer",
